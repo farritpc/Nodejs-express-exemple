@@ -1,4 +1,3 @@
 # Nodejs-express-exemple
 
- use express for web server
- use EJS for template Engine
+ use express for web server and EJS for template Engine
